@@ -1,0 +1,15 @@
+.LoginPanel{
+    border: 1px solid #000;
+}
+#lblUN,#lblUP{
+    display: block;
+}
+
+.LoginPanel>input{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+#btnLogin{
+    font-size: 1rem;
+}
